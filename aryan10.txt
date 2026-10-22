@@ -1,1 +1,4 @@
-num1=input("enter the first number:")
+yoyo
+
+
+
