@@ -1,0 +1,6 @@
+a=input("enter a string:")
+print("first character:", a[0])
+print("last character:", a[-1])
+print("first 3 characters:", a[:3])
+print("last 3 characters:", a[-3:])
+print("characters reversed:", a[-1::-4])
